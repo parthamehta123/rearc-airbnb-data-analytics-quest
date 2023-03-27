@@ -28,25 +28,23 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 1. AirbnbDataExploration.ipynb: The Jupyter Notebook file that describes the process of data anlysis. It contains the steps of data collection, cleaning, tranformation, as well as data modeling.
 
-2. utility.py: functions used by the Jupyter Notebook file 'airbnb_sf.ipynb'.
+2. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
 
-3. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
+3. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
-4. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
+4. reviews.csv.gz: Detailed Review Data.
 
-5. reviews.csv.gz: Detailed Review Data.
+5. listings.csv: Summary information and metrics for listings in San Francisco.
 
-6. listings.csv: Summary information and metrics for listings in San Francisco.
+6. reviews.csv: Summary Review data and Listing ID.
 
-7. reviews.csv: Summary Review data and Listing ID.
+7. neighborhoods.csv:	Neighborhood list for geo filter. Sourced from city or open source GIS files.
 
-8. neighborhoods.csv:	Neighborhood list for geo filter. Sourced from city or open source GIS files.
-
-9. neighbourhoods.geojson:	GeoJSON file of neighborhoods of the city.
+8. neighbourhoods.geojson:	GeoJSON file of neighborhoods of the city.
 
 **Blog**
 
-1. A blog was written based on this project. The blog's link: https://medium.com/@wei.wade.wu/what-makes-people-choose-your-airbnb-home-a9d83722a712
+1. A blog was written based on this project. The blog's link: 
 
 **Summary of the results of the analysis**
 
