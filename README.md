@@ -44,7 +44,7 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 **Blog**
 
-1. A blog was written based on this project. The blog's link: 
+1. A blog was written based on this project. The blog's link: https://medium.com/@parthamehta10/what-makes-people-choose-your-airbnb-home-300ec540a079
 
 **Summary of the results of the analysis**
 
