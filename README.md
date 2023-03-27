@@ -32,7 +32,7 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 3. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
 
-4. calendar.csv.zip: The calendar data set provides availability and price information for the total 6632 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
+4. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
 5. reviews.csv.gz: Detailed Review Data.
 
