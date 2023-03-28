@@ -32,16 +32,6 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 3. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
-4. reviews.csv.gz: Detailed Review Data.
-
-5. listings.csv: Summary information and metrics for listings in San Francisco.
-
-6. reviews.csv: Summary Review data and Listing ID.
-
-7. neighborhoods.csv:	Neighborhood list for geo filter. Sourced from city or open source GIS files.
-
-8. neighbourhoods.geojson:	GeoJSON file of neighborhoods of the city.
-
 **Blog**
 
 1. A blog was written based on this project. The blog's link: https://medium.com/@parthamehta10/what-makes-people-choose-your-airbnb-home-300ec540a079
