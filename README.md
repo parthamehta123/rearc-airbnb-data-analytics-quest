@@ -26,6 +26,30 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 **Files**
 
+Exploring an Airbnb Dataset
+
+Tables / Descriptions
+
+To download these files, copy/paste the link address from the file in the input directory.
+
+Alternatively, pd.read_csv(url) should work just fine.
+
+File	Description
+
+listings.csv.gz	Detailed Listings Data
+
+calendar.csv.gz	Detailed Calendar Data
+
+reviews.csv.gz	Detailed Review Data
+
+listings.csv	Summary information and metrics for listings in San Francisco
+
+reviews.csv	Summary Review data and Listing ID
+
+neighborhoods.csv	Neighborhood list for geo filter. Sourced from city or open source GIS files.
+
+neighbourhoods.geojson	GeoJSON file of neighborhoods of the city
+
 1. AirbnbDataExploration.ipynb: The Jupyter Notebook file that describes the process of data anlysis. It contains the steps of data collection, cleaning, tranformation, as well as data modeling.
 
 2. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
