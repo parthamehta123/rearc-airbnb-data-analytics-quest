@@ -12,17 +12,13 @@ A data science project that uses AirBnB public data for San Francisco to answer 
 
 Explore and analyze the AirBnB public data for San Francisco on topics of Pricing, Occupancy and Review Ratings. Answer the following questons:
 
-1. What factors are most strongly associated with the price of an Airbnb rental in San Francisco?
+1. What are the most important factors that impact a listing's price?
 
-2. What neighborhoods in San Francisco have the highest demand for Airbnb rentals?
+2. What are the most important factors that impact a listing's occupancy rate?
 
-3. Can you identify any interesting trends or patterns in the demand for Airbnb rentals in San Francisco over time?
+3. What are the most important factors that impact a listing's review ratings?
 
-4. Can you predict the occupancy rate and/or price of a given Airbnb listing in San Francisco based on its attributes and availability? (or) What are the     most important factors that impact a listing's occupancy rate or price of a given Airbnb listing?
-
-5. What are the most important factors that impact a listing's review ratings?
-
-6. What are the amenities AirBnB guests care most?
+4. What are the amenities AirBnB guests care most?
 
 **Files**
 
@@ -36,25 +32,15 @@ Alternatively, pd.read_csv(url) should work just fine.
 
 File	Description
 
-listings.csv.gz	Detailed Listings Data
+1. listings.csv.gz	Detailed Listings Data
 
-calendar.csv.gz	Detailed Calendar Data
+2. calendar.csv.gz	Detailed Calendar Data
 
-reviews.csv.gz	Detailed Review Data
+3. AirbnbDataExploration.ipynb: The Jupyter Notebook file that describes the process of data anlysis. It contains the steps of data collection, cleaning, tranformation, as well as data modeling.
 
-listings.csv	Summary information and metrics for listings in San Francisco
+4. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
 
-reviews.csv	Summary Review data and Listing ID
-
-neighborhoods.csv	Neighborhood list for geo filter. Sourced from city or open source GIS files.
-
-neighbourhoods.geojson	GeoJSON file of neighborhoods of the city
-
-1. AirbnbDataExploration.ipynb: The Jupyter Notebook file that describes the process of data anlysis. It contains the steps of data collection, cleaning, tranformation, as well as data modeling.
-
-2. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 04/12/2022). There are 75 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
-
-3. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
+5. calendar.csv.zip: The calendar data set provides availability and price information for the total 2477255 active listings (as of 04/12/2022) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
 **Blog**
 
